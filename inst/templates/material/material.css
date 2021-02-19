@@ -5,7 +5,7 @@
 }
 
 .header-panel {
-    background-color: #009587;
+    background-color: #e6e6e6;
     min-height: 144px;
     position: relative;
     z-index: 3;
@@ -27,7 +27,7 @@
 
 .header-panel h4 {
     font-size: 16px;
-    color: #FFF;
+    color: #b0d0dc;
     padding-left: 35px;
     margin: 5px 0px;
 }
