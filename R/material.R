@@ -40,7 +40,7 @@ material <- function(fig_width = 6,
                      use_bookdown = FALSE,
                      pandoc_args = NULL,
                      md_extensions = NULL,
-                     mathjax = "rmdformats",
+                     mathjax = "CE_markdown",
                      ...) {
     html_template(
         template_name = "material",
